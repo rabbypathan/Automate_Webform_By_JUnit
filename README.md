@@ -1,5 +1,5 @@
 # Automate_Webform_By_JUnit
-Here is a webform automated with selenium junit
+Automation of a web form using Selenium and JUnit.
 
 ## Scenario:
 Automate the following webform https://www.digitalunite.com/practice-webform-learners
