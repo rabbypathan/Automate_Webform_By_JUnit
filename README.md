@@ -1,4 +1,4 @@
-# Automate_Webform_By_JUnit
+# Automate_Webform_With_JUnit
 Automation of a web form using Selenium and JUnit.
 
 ## Scenario:
